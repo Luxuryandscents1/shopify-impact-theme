@@ -390,6 +390,7 @@
         "item-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/I0141641largest.jpg",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -411,6 +412,7 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/I0094799largest.jpg",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
