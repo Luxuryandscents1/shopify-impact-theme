@@ -192,7 +192,7 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "new-arrivals",
             "subheading": "",
             "title": "",
             "url": "",
