@@ -243,7 +243,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "new-arrivals",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -552,6 +552,7 @@
       ],
       "settings": {
         "full_width": true,
+        "image": "shopify://shop_images/I0142866largest.jpg",
         "title": "",
         "content": "",
         "button_text": "",
@@ -692,7 +693,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "calvin-klein-ck-all",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
